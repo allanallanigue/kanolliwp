@@ -117,7 +117,7 @@
 			<?php
 				$logo = ( $user_logo = et_get_option( 'divi_logo' ) ) && '' != $user_logo
 					? $user_logo
-					: $template_directory_uri . '/images/logo.png';
+					: $template_directory_uri . '/images/logo.jpg';
 			?>
 				<div class="logo_container">
 					<span class="logo_helper"></span>
