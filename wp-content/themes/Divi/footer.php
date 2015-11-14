@@ -37,7 +37,7 @@ if ( ! is_page_template( 'page-template-blank.php' ) ) : ?>
 					}
 				?>
 
-						<p id="footer-info"><?php printf( __( 'Registered Trademarks: Kanolli®  <br> Copyright © 2015 Kanolli.com All Rights Reserved' ), '<a href="http://www.allanallanigue.tk" >AAllanigue</a>', '<a href="http://www.wordpress.org">WordPress</a>' ); ?></p>
+						<p id="footer-info"><?php printf( __( 'Registered Trademarks: Kanolli®  <br> Copyright © 2015 Kanolli.com All Rights Reserved' ), '<a href="http://www.wordpress.org">WordPress</a>' ); ?></p>
 					</div>	<!-- .container -->
 				</div>
 			</footer> <!-- #main-footer -->
