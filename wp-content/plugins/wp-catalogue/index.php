@@ -16,6 +16,7 @@ function wpc_list_style(){
     <style>
         .wpc-product img, .product-img-view img, .wpc-product-img img{
             margin-left:0;
+	    margin-top: 30px;
         }
 
     </style>

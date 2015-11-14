@@ -129,6 +129,15 @@ No known backward incompatibility issues.
 
 == Changelog ==
 
+= 1.3.2 =
+
+* FIXED:
+	* Removed double slashes in URLs.
+	* Load minimized JS in customizer.
+	* Using class for globe icon instead of id.
+	* Rewriting the array of classes.
+	* Minor css improvements.
+
 = 1.3.1 =
 
 * FIXED:
@@ -164,6 +173,18 @@ No known backward incompatibility issues.
 	* Updater bug "cannot delete old plugin files".
 	* Broken Welsh flag cy.png (Thanks to Tudor Thomas).
 
+= 1.2.6 =
+
+* FIXED:
+	* `de_DE` admin interface properly translated.
+	* Broken links to WPGlobus.com from admin pages.
+* ADDED:
+	* `tr_TR` admin interface translation.
+	* `es` and `fr` enabled by default.
+* COMPATIBILITY:
+	* All In One SEO Pack 2.2.7.2
+	* ACF Pro 5.3.0
+
 = Earlier versions =
 
 * [See the complete changelog here](https://github.com/WPGlobus/WPGlobus/blob/master/changelog.md)
@@ -180,3 +201,4 @@ No known backward incompatibility issues.
 	* Demonstration of two WPGlobus-powered sites, one of which is installed in a subfolder of another. Shows the correct behavior of WPGlobus with URLs like `example.com/folder/wordpress`.
 * [WooCommerce Multilingual](http://demo-store.wpglobus.com/):
 	* A **multilingual WooCommerce** site powered by the `woocommerce-wpglobus` plugin.
+

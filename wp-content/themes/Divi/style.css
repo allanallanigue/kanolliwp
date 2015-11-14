@@ -1197,9 +1197,7 @@ span.comment_date { color: #000; font-size: 14px; font-weight: 300; }
 	#reply-title small { display: block; font-size: 14px; font-weight: 400; }
 
 /* Footer */
-#main-footer, .push { background-color: #222222;
-clear: both;
-        height: 4em;}
+#main-footer, .push { background-color: #222222; }
         
 	/* Widgets */
  	#footer-widgets { padding: 6% 0 0; }

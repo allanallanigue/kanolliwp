@@ -1,0 +1,90 @@
+#<?php die('Direct Access To Log Not Permitted'); ?>
+## Start ( date: 14 Nov 15 06:46PM (UTC) )
+# On the page: /wp-admin/admin.php?page=jcatalog&controller=item&task=preferences
+## 
+stdClass Object
+(
+    [sqlName] => did
+    [sqlValueOriginal] => #product#product_shipping_method_available
+    [sqlValue] => product_shipping_method_available
+    [returnValue] => 
+    [returnValueType] => NULL
+    [dbNameForSqlQuery] => layout_multiforms
+)
+
+## End ##
+
+## Start ( date: 14 Nov 15 06:46PM (UTC) )
+# On the page: /wp-admin/admin.php?page=jcatalog&controller=item&task=preferences
+## 
+stdClass Object
+(
+    [sqlName] => did
+    [sqlValueOriginal] => #product#product_delivery_type_pref
+    [sqlValue] => product_delivery_type_pref
+    [returnValue] => 
+    [returnValueType] => NULL
+    [dbNameForSqlQuery] => layout_multiforms
+)
+
+## End ##
+
+## Start ( date: 14 Nov 15 06:46PM (UTC) )
+# On the page: /wp-admin/admin.php?page=jcatalog&controller=item&task=preferences
+## 
+stdClass Object
+(
+    [sqlName] => did
+    [sqlValueOriginal] => #product#product_shipping_method_available
+    [sqlValue] => product_shipping_method_available
+    [returnValue] => 
+    [returnValueType] => NULL
+    [dbNameForSqlQuery] => layout_multiforms
+)
+
+## End ##
+
+## Start ( date: 14 Nov 15 06:46PM (UTC) )
+# On the page: /wp-admin/admin.php?page=jcatalog&controller=item&task=preferences
+## 
+stdClass Object
+(
+    [sqlName] => did
+    [sqlValueOriginal] => #product#product_delivery_type_pref
+    [sqlValue] => product_delivery_type_pref
+    [returnValue] => 
+    [returnValueType] => NULL
+    [dbNameForSqlQuery] => layout_multiforms
+)
+
+## End ##
+
+## Start ( date: 14 Nov 15 06:46PM (UTC) )
+# On the page: /wp-admin/admin.php?page=jcatalog&controller=item&task=preferences
+## 
+stdClass Object
+(
+    [sqlName] => did
+    [sqlValueOriginal] => #product#product_countries_published_list_google
+    [sqlValue] => product_countries_published_list_google
+    [returnValue] => 
+    [returnValueType] => NULL
+    [dbNameForSqlQuery] => layout_multiforms
+)
+
+## End ##
+
+## Start ( date: 14 Nov 15 06:46PM (UTC) )
+# On the page: /wp-admin/admin.php?page=jcatalog&controller=item&task=preferences
+## 
+stdClass Object
+(
+    [sqlName] => did
+    [sqlValueOriginal] => #product#product_countries_published_list_google
+    [sqlValue] => product_countries_published_list_google
+    [returnValue] => 
+    [returnValueType] => NULL
+    [dbNameForSqlQuery] => layout_multiforms
+)
+
+## End ##
