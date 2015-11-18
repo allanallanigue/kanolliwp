@@ -1,1 +1,0 @@
-/* CONDITIONCOLUMN||filters_node||requirednode */ ALTER TABLE `#__filters_node`  ADD `requirednode` VARCHAR ( 100 )  NOT NULL ;
