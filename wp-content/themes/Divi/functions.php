@@ -7513,9 +7513,9 @@ function et_get_blockquote_in_content() {
 endif;
 
 function et_remove_blockquote_from_content( $content ) {
-	if ( 'quote' !== et_pb_post_format() ) {
+	//if ( 'quote' !== et_pb_post_format() ) {
 		return $content;
-	}
+	//}
 
 	$content = preg_replace( '/<blockquote>(.+?)<\/blockquote>/is', '', $content, 1 );
 
