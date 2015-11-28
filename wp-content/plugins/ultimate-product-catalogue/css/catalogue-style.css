@@ -17,7 +17,6 @@
 .upcp-detail-item {
 	border: 1px solid black;
 } */
-
 /************************************************************
 *  GENERAL
 ************************************************************/
@@ -129,9 +128,6 @@
   font-weight:600;
   font-size: 1.1em;
 }
-.prod-cat-category-description {
-	font-weight: 200;
-}
 .prod-cat-title {
 }
 .prod-cat-thumb-image-div {
@@ -139,7 +135,7 @@
 	position:relative;
 }
 .prod-cat-thumb-image {
-	width:auto !important; 
+	width: auto !important; 
 	position: relative;
 }
 .prod-cat-price {
@@ -156,7 +152,7 @@
     margin-bottom:20px;
 }
 .prod-cat-sidebar > form > div {
-	margin: 0 15px;
+	margin: 5px 15px;
     min-height: 1.6em;
 }
 .prod-cat-sidebar-category,
@@ -197,12 +193,16 @@
 
 }
 
-.prod-cat-sidebar .styled-select {
+#upcp-sort-by {
 	width:100%;
+	height:35px;	
     padding: 5px;
 	border: solid 1px #c9c9c9;
     box-shadow: none;
     background-image: none;
+}
+#upcp-sort-by option {
+	width:100%;
 }
 .prod-cat-sidebar .styled-select select:focus {
     outline: none;
@@ -210,16 +210,18 @@
 select:active {
     border: 1px solid #000;
 }
-.prod-cat-sidebar .styled-input input[type="text"] {
-	padding: 10px !important;
+#upcp-name-search {
+	padding: 5px !important;
 	border: solid 1px #c9c9c9;
 	transition: border 1s ease;
 	width:100%;
 	font-size: 0.8em;
+	height:35px;
 }
 .prod-cat-sidebar .styled-input input[type="text"]:hover,
 .prod-cat-sidebar .styled-input input[type="text"]:focus{
 	 border: solid 1px rgba(59, 59, 59, 0.75);
+	 background: none;
 }
 
 /************** TITLE HOVER EFFECTS *********************/
@@ -660,7 +662,7 @@ div.upcp-thumb-image-div img {
 	vertical-align: middle;
 }
 div.upcp-detail-image-div img {
-	max-width: 100%;
+	max-width: 180px;
 	max-height:180px;
 }
 
@@ -1085,8 +1087,21 @@ ul#upcp-tabs {
     max-width: 100%;
     max-height: 100%;
 	border: solid 1px #C0C0C0;
+}
+.upcp-tabbed-description {
 	height: 450px;
   	overflow-y: auto;
+}
+.upcp-tabbed-addtl-info {
+  	height: 450px;
+  	overflow-y: hidden;
+}
+.upcp-tabbed-contact-form {
+  	min-height: 450px;
+}
+.upcp-tabbed-reviews {
+	height: 450px;
+  	overflow-y: hidden;
 }
 @keyframes fadein {
     from {

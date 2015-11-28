@@ -544,3 +544,21 @@ button.close {
     background-color:#FFFFFF;
     font:1em Arial, Helvetica, sans-serif;
 }
+
+/***********************************************************************************
+* POINTERS
+***********************************************************************************/
+
+.wp-pointer-content ul {
+  list-style: disc;
+  padding-left: 40px;
+}
+
+.wp-pointer-content iframe {
+  margin-top:18px;
+}
+
+.upcp-pointer-count {
+  margin-top: 40px;
+  margin-bottom: -40px;
+}

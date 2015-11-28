@@ -141,15 +141,18 @@ If you do translate the catalog, other users would love to have access to the fi
 
 The premium version includes a lot of great features including: the ability to add over 100 products, additional product images, SEO friendly catalog URLs, product tags and custom fields for catalog sorting, custom catalog product pages, a minimalist catalog layout option and more!
 
+* Super responsive tabbed layout with customizable tabs
 * Drag-and-drop catalog product pages layout
-* Product tags
+* Lightbox, product inquiry form and product reviews
 * Custom fields that can be used to include product manuals, additional information, etc.
 * SEO friendly catalog single product pages
 * Unlimited catalog products
 * Additional images per product
 * Catalog pretty permalinks
+* Product tags
 * More catalog layout options
 * Related and Next/Previous catalog product display
+* Styling, labeling and dozens of other options!
 
 For a more in depth list, please visit our FAQ page:
 <http://www.etoilewebdesign.com/ultimate-product-catalogue-faq>
@@ -161,13 +164,31 @@ For more questions and support you can post in the support forum:
 
 = Videos =
 
-Tutorial Part 1
-[youtube http://www.youtube.com/watch?v=9sdHtGGZpKU]
+Tutorial Video 1 - Installation and Set Up
+[youtube https://www.youtube.com/watch?v=-AwTj0pfooo]
 
-Tutorial Part 2
-[youtube http://www.youtube.com/watch?v=KBhdiNCtLvM]
+Tutorial Video 2 - Categories and Sub-Categories
+[youtube https://www.youtube.com/watch?v=9ATWI_UoYi4]
 
-Premium Features
+Tutorial Video 3 - Tags and Custom Fields
+[youtube https://www.youtube.com/watch?v=JqqqFfogiQ8]
+
+Tutorial Video 4 - The Options Page
+[youtube https://www.youtube.com/watch?v=UxWENKqa9Rk]
+
+Tutorial Video 5 - Widgets
+[youtube https://www.youtube.com/watch?v=sLHBA4fXuYg]
+
+Tutorial Video 6 - Shortcodes
+[youtube https://www.youtube.com/watch?v=oJqVQQ-Y1TY]
+
+Tutorial Video 7 - Extra URL Parameters for Filtering
+[youtube https://www.youtube.com/watch?v=YYpRuukkqLw]
+
+Tutorial Video 8 - Custom CSS
+[youtube https://www.youtube.com/watch?v=tq386rMtpm8]
+
+Premium Features (a little out of date, update coming soon!)
 [youtube http://www.youtube.com/watch?v=l9mWNqOIB_w]
 
 == Screenshots ==
@@ -184,6 +205,14 @@ Premium Features
 10. View of the premium catalog options under the "Options" tab
 
 == Changelog ==
+= 3.5.44 =
+- Fix for missing thumbnail title styling option
+- Minor CSS fix for image stretching issues
+- Made walk-through compatible with unsupported versions of PHP
+
+= 3.5.43 =
+- Added a walk-through for new installations
+
 = 3.5.42 =
 - Added a "Main Image Only" option to the lightbox
 - Fixed an issue where the thumbnail layout could overlap on some sites

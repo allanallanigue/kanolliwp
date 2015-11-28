@@ -209,13 +209,13 @@ function UPCP_Add_Modified_Styles() {
 			 {$StylesString .= "background-color:" . get_option("UPCP_Thumbnail_View_Background_Color") . ";";} 
 		// if (get_option("UPCP_Thumbnail_View_Separator_Line") != THUMBNAIL_VIEW_SEPARATOR_LINE &&  get_option("UPCP_Thumbnail_View_Background_Color") != "") {$StylesString .= get_option("UPCP_Thumbnail_View_Separator_Line") . ";";} 
 		$StylesString .="}\n";
-	$StylesString .= ".upcp-thumb-title {";
+	$StylesString .= ".upcp-thumb-title a {";
 		if (get_option("UPCP_Thumbnail_View_Title_Font_Size") != THUMBNAIL_VIEW_TITLE_FONT_SIZE &&  get_option("UPCP_Thumbnail_View_Title_Font_Size") != "")
-			{$StylesString .="font-size:" . get_option("UPCP_Thumbnail_View_Title_Font_Size") . "px;";} 
+			{$StylesString .="font-size:" . get_option("UPCP_Thumbnail_View_Title_Font_Size") . "px !important;";} 
 		if (get_option("UPCP_Thumbnail_View_Title_Font") != THUMBNAIL_VIEW_TITLE_FONT &&  get_option("UPCP_Thumbnail_View_Title_Font") != "")
-			{$StylesString .="font-family:" . get_option("UPCP_Thumbnail_View_Title_Font") . ";";} 
+			{$StylesString .="font-family:" . get_option("UPCP_Thumbnail_View_Title_Font") . " !important;";} 
 		if (get_option("UPCP_Thumbnail_View_Title_Color") != THUMBNAIL_VIEW_TITLE_COLOR &&  get_option("UPCP_Thumbnail_View_Title_Color") != "")
-			{$StylesString .= "color:" . get_option("UPCP_Thumbnail_View_Title_Color") . ";";} 
+			{$StylesString .= "color:" . get_option("UPCP_Thumbnail_View_Title_Color") . " !important;";} 
 		$StylesString .="}\n";
 	$StylesString .= ".upcp-thumb-price {";
 		if (get_option("UPCP_Thumbnail_View_Price_Font") != THUMBNAIL_VIEW_PRICE_FONT &&  get_option("UPCP_Thumbnail_View_Price_Font") != "")

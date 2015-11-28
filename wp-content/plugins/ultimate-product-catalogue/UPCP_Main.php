@@ -7,7 +7,7 @@ Author: Etoile Web Design
 Author URI: http://www.EtoileWebDesign.com/
 Terms and Conditions: http://www.etoilewebdesign.com/plugin-terms-and-conditions/
 Text Domain: UPCP
-Version: 3.5.42
+Version: 3.5.44
 */
 
 global $UPCP_db_version;
@@ -50,6 +50,7 @@ $wpdb->show_errors(); */
 register_activation_hook(__FILE__,'Install_UPCP_DB');
 register_activation_hook(__FILE__,'Initial_UPCP_Data');
 register_activation_hook(__FILE__,'Initial_UPCP_Options');
+register_activation_hook(__FILE__,'Run_UPCP_Tutorial');
 
 /* When plugin is deactivation*/
 register_deactivation_hook( __FILE__, 'Remove_UPCP' );
@@ -173,6 +174,37 @@ function UPCP_Admin_Options() {
     //wp_enqueue_style( 'bootstrap', plugins_url("ultimate-product-catalogue/css/bootstrap.min.css"));
 }
 
+function Run_UPCP_Tutorial() {
+	update_option("UPCP_Run_Tutorial", "Yes");
+}
+	
+if (get_option("UPCP_Run_Tutorial") == "Yes" and $_GET['page'] == 'UPCP-options') {
+	add_action( 'admin_enqueue_scripts', 'UPCP_Set_Pointers', 10, 1);
+}
+
+function UPCP_Set_Pointers($page) {
+	  $Pointers = UPCP_Return_Pointers();
+
+	  //Arguments: pointers php file, version (dots will be replaced), prefix
+	  $manager = new UPCPPointersManager( $Pointers, '1.0', 'upcp_admin_pointers' );
+	  $manager->parse();
+	  $pointers = $manager->filter( $page );
+	  if ( empty( $pointers ) ) { // nothing to do if no pointers pass the filter
+	    return;
+	  }
+	  wp_enqueue_style( 'wp-pointer' );
+	  $js_url = plugins_url( 'js/upcp-pointers.js', __FILE__ );
+	  wp_enqueue_script( 'upcp_admin_pointers', $js_url, array('wp-pointer'), NULL, TRUE );
+	  //data to pass to javascript
+	  $data = array(
+	    'next_label' => __( 'Next' ),
+	    'close_label' => __('Close'),
+	    'pointers' => $pointers
+	  );
+	  wp_localize_script( 'upcp_admin_pointers', 'MyAdminPointers', $data );
+	update_option("UPCP_Run_Tutorial", "No");
+}
+
 add_action('activated_plugin','save_error');
 function save_error(){
     update_option('plugin_error',  ob_get_contents());
@@ -203,6 +235,9 @@ include "Functions/UPCP_Add_SEO.php";
 include "Functions/UPCP_Add_Social_Media_Buttons.php";
 include "Functions/UPCP_Create_XML_Sitemap.php";
 include "Functions/UPCP_Export_To_Excel.php";
+include "Functions/UPCP_Help_Pointers.php";
+include "Functions/UPCP_Pointers_Manager_Interface.php";
+include "Functions/UPCP_Pointers_Manager_Class.php";
 include "Functions/UPCP_Product_Inquiry_Form.php";
 include "Functions/UPCP_Styling.php";
 include "Functions/UPCP_Widget.php";
