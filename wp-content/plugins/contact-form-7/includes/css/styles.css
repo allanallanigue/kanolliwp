@@ -76,3 +76,15 @@ div.wpcf7 div.ajax-error {
 div.wpcf7 .placeheld {
 	color: #888;
 }
+
+input[type="submit"]{
+    background-color: #dd9933;
+    color: #ffffff;
+}
+
+.btn-send{
+    background-color: #dd9933;
+    color: #ffffff;
+}
+
+
