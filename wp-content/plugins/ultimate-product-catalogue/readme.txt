@@ -205,6 +205,9 @@ Premium Features (a little out of date, update coming soon!)
 10. View of the premium catalog options under the "Options" tab
 
 == Changelog ==
+= 3.5.45 =
+- Fixed an error with tag groups where some tags could end up as radio buttons instead of checkboxes
+
 = 3.5.44 =
 - Fix for missing thumbnail title styling option
 - Minor CSS fix for image stretching issues

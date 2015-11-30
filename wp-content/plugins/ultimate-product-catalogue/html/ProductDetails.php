@@ -101,11 +101,7 @@
                         <?php foreach ($Tags as $Tag) {
                                 $Is_Tagged = false;
                                 foreach ($Tagged_Items as $Tagged_Item) {if ($Tagged_Item->Tag_ID == $Tag->Tag_ID) {$Is_Tagged = true;}}?>
-                                <?php if($TagGroupName->Tag_Group_ID != "2"){ ?>
                                 <input type="checkbox" class='upcp-tag-input' name="Tags[]" value="<?php echo $Tag->Tag_ID; ?>" id="Tag-<?php echo $Tag->Tag_Name; ?>" <?php if ($Is_Tagged) {echo " checked";} ?>>
-                                <?php }else{ ?>
-                                <input type="radio" class='upcp-tag-radio-input' name="Tags[]" value="<?php echo $Tag->Tag_ID; ?>" id="Tag-<?php echo $Tag->Tag_Name; ?>" <?php if ($Is_Tagged) {echo " checked"; $ESRB_Image = "http://www.atlus.com/sandbox/img/esrb/" . $Tag->Tag_Description . ".jpg";} ?>>
-								<?php }?>
                                 <?php echo $Tag->Tag_Name; ?></br>
                         <?php } ?>
                         </div><!-- end #Tag-Group-<?php echo $TagGroupName->Tag_Group_ID; ?> --><?php } } ?>
