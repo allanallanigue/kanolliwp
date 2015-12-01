@@ -7989,9 +7989,9 @@ if ( ! function_exists( 'et_show_cart_total' ) ) {
 		$args = wp_parse_args( $args, $defaults );
 
 		printf(
-			'<a href="%1$s" class="et-cart-info">
+			'<!--<a href="%1$s" class="et-cart-info">
 				<span>%2$s</span>
-			</a>',
+			</a>-->',
 			esc_url( WC()->cart->get_cart_url() ),
 			( ! $args['no_text']
 				? sprintf(

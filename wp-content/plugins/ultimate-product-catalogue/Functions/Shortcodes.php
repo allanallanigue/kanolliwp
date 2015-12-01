@@ -617,7 +617,7 @@ function AddProduct($format, $Item_ID, $Product, $Tags, $AjaxReload = "No", $Aja
 	if ($Links == "New") {$NewWindow = true;}
 	else {$NewWindow = false;}
 		
-	if ($CF_Conversion != "No") {$Description = ConvertCustomFields($Product->Item_Description);}
+	if ($CF_Conversion != "No") {$Description = ConvertCustomFields($Product->Item_Description, $Item_ID);}
 	else {$Description = $Product->Item_Description;}
 	$Description = str_replace("[upcp-price]", $Product->Item_Price, $Description);
 		
@@ -831,7 +831,7 @@ function SingleProductPage() {
 	$Item_Videos = $wpdb->get_results("SELECT * FROM $item_videos_table_name WHERE Item_ID='" . $Product->Item_ID . "' ORDER BY Item_Video_Order ASC");
 
 	$Links = get_option("UPCP_Product_Links");
-	if ($CF_Conversion != "No") {$Description = ConvertCustomFields($Product->Item_Description);}
+	if ($CF_Conversion != "No") {$Description = ConvertCustomFields($Product->Item_Description, $Product->Item_ID);}
 	else {$Description = $Product->Item_Description;}
 	$Description = str_replace("[upcp-price]", $Product->Item_Price, $Description);
 	$Description = do_shortcode($Description);
@@ -1068,7 +1068,7 @@ function SingleProductPage() {
 		if ($Product_Reviews == "Yes" ) {$ProductString .= "<li class='upcp-tabbed-layout-tab upcp-tabbed-reviews-menu upcp-tab-layout-tab-unclicked' id='upcp-tabbed-tab'><a data-class='upcp-tabbed-reviews' class='upcp-tab-slide'> <span class='upcp-tab-break'>Customer</span> <span class='upcp-tab-break'>Reviews</span></a></li>";}
 		if (is_array($Tabs_Array) and sizeof($Tabs_Array) > 0) {
 			foreach ($Tabs_Array as $key => $Tab_Item ) {
-				$ProductString .= "<li class='upcp-tabbed-layout-tab upcp-tabbed-" . $key . "-menu' id='upcp-tabbed-tab'><a data-class='upcp-tabbed-" . $key . "' class='upcp-tab-slide'>" . ConvertCustomFields($Tab_Item['Name'], $Product->Item_Name) . " </a></li>";
+				$ProductString .= "<li class='upcp-tabbed-layout-tab upcp-tabbed-" . $key . "-menu' id='upcp-tabbed-tab'><a data-class='upcp-tabbed-" . $key . "' class='upcp-tab-slide'>" . ConvertCustomFields($Tab_Item['Name'], $Product->Item_ID, $Product->Item_Name) . " </a></li>";
 			}
 		}
 		$ProductString .= "</ul>";
@@ -1122,7 +1122,7 @@ function SingleProductPage() {
 			foreach ($Tabs_Array as $key => $Tab_Item ) {
 				$ProductString .= "<div id='upcp-tabbed-" . $key . "-" . $Product->Item_ID . "' class='upcp-tabbed-" . $key . " upcp-tabbed-tab upcp-Hide-Item'>";
 				$ProductString .= "<div id='upcp-tabbed-content'>";
-				$ProductString .= do_shortcode(ConvertCustomFields($Tab_Item['Content'], $Product->Item_Name));
+				$ProductString .= do_shortcode(ConvertCustomFields($Tab_Item['Content'], $Product->Item_ID, $Product->Item_Name));
 				$ProductString .= "</div>";
 				$ProductString .= "</div>";
 			}
@@ -1811,14 +1811,14 @@ function CheckPagination($Product_Count, $products_per_page, $current_page, $Fil
 	else {return "Under";}
 }
 
-function ConvertCustomFields($Description, $Item_Name = "") {
+function ConvertCustomFields($Description, $Item_ID, $Item_Name = "") {
 	global $wpdb;
 	global $fields_table_name, $fields_meta_table_name;
 		
 	$upload_dir = wp_upload_dir();
 		
 	$Fields = $wpdb->get_results("SELECT Field_ID, Field_Slug, Field_Type FROM $fields_table_name");
-	$Metas = $wpdb->get_results("SELECT Field_ID, Meta_Value FROM $fields_meta_table_name");
+	$Metas = $wpdb->get_results($wpdb->prepare("SELECT Field_ID, Meta_Value FROM $fields_meta_table_name WHERE Item_ID=%d", $Item_ID));
 		
 	if (is_array($Fields)) {
 		if (is_array($Metas)) {

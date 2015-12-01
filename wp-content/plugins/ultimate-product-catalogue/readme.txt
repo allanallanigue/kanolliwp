@@ -13,8 +13,6 @@ A responsive and easily customizable catalog plugin for all your product catalog
 
 <a href='http://www.etoilewebdesign.com/ultimate-product-catalogue-demo/'>Product Catalog Demo</a>
 
-[youtube https://www.youtube.com/watch?v=vLIdbiD5rr4]
-
 Our responsive catalog plugin is designed to display your products in an a sleek and easy to customize catalog(ue) format. Choose between three default responsive layouts for your catalog, or use the Custom CSS features or any of the hundreds of catalog styling options. Make your product catalog easy to browse, sort and update with product categories, sub-categories, tags and custom fields. Simple to add a product catalog to any page using the [product-catalogue] or [product-catalog] shortcode!
 
 Perfect to create a product catalog for your store, art gallery, restaurant and more!
@@ -67,6 +65,8 @@ Head over to the "Support" forum to report issues or make suggestions:
 <https://wordpress.org/support/plugin/ultimate-product-catalogue>
 
 Check out more videos on the FAQ page.
+
+[youtube https://www.youtube.com/watch?v=vLIdbiD5rr4]
 
 == Installation ==
 
@@ -205,6 +205,9 @@ Premium Features (a little out of date, update coming soon!)
 10. View of the premium catalog options under the "Options" tab
 
 == Changelog ==
+= 3.5.46 =
+- Fixed an error with placing custom field content into custom tabs in the "Tabbed" layout
+
 = 3.5.45 =
 - Fixed an error with tag groups where some tags could end up as radio buttons instead of checkboxes
 
