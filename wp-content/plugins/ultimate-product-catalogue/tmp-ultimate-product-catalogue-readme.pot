@@ -1,0 +1,1867 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Short description.
+msgid "A responsive and easily customizable catalog plugin for all your product catalog needs."
+msgstr ""
+
+#. Screenshot description.
+msgid "View of the \"Minimalist\" catalog style in the \"Thumbnail\" view"
+msgstr ""
+
+#. Screenshot description.
+msgid "View of the \"Minimalist\" catalog style in the \"List\" view"
+msgstr ""
+
+#. Screenshot description.
+msgid "View of the \"Minimalist\" catalog style in the \"Details\" view"
+msgstr ""
+
+#. Screenshot description.
+msgid "View of the \"Tabbed Layout\" catalog product page"
+msgstr ""
+
+#. Screenshot description.
+msgid "View of the catalog lightbox feature"
+msgstr ""
+
+#. Screenshot description.
+msgid "View of the catalog \"Product Inquiry Form\" inclusion from the Contact Form 7 plugin"
+msgstr ""
+
+#. Screenshot description.
+msgid "View of the \"Custom Page Layout\" catalog product page"
+msgstr ""
+
+#. Screenshot description.
+msgid "View of the new catalog \"Styling\" tab feature"
+msgstr ""
+
+#. Screenshot description.
+msgid "View of the catalog \"Products\" tab"
+msgstr ""
+
+#. Screenshot description.
+msgid "View of the premium catalog options under the \"Options\" tab"
+msgstr ""
+
+#. Found in description header.
+msgid "Key Features"
+msgstr ""
+
+#. Found in description header.
+msgid "Premium Features"
+msgstr ""
+
+#. Found in description header.
+msgid "Additional Languages"
+msgstr ""
+
+#. Found in description list item.
+msgid "3 default catalog layouts (thumbnail, detail and list)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Product categories and sub-categories"
+msgstr ""
+
+#. Found in description list item.
+msgid "Custom fields"
+msgstr ""
+
+#. Found in description list item.
+msgid "Custom product pages "
+msgstr ""
+
+#. Found in description list item.
+msgid "Catalogs fully customizable with CSS"
+msgstr ""
+
+#. Found in description list item.
+msgid "Widgets to display recent products, product list, random products"
+msgstr ""
+
+#. Found in description list item.
+msgid "Include catalogs using the [product-catalogue id=’X’] or [product-catalog id=’X’]shortcode"
+msgstr ""
+
+#. Found in description list item.
+msgid "Upload products directly from a spreadsheet"
+msgstr ""
+
+#. Found in description list item.
+msgid "Search catalog functions with Javascript or AJAX"
+msgstr ""
+
+#. Found in description list item.
+msgid "Easy to use catalog attributes like [starting_layout], [excluded_layout]"
+msgstr ""
+
+#. Found in description list item.
+msgid "Options page that makes it easy to customize catalog features"
+msgstr ""
+
+#. Found in description list item.
+msgid "Drag-and-drop product pages layout"
+msgstr ""
+
+#. Found in description list item.
+msgid "Product tags, additional images and videos"
+msgstr ""
+
+#. Found in description list item, faq list item.
+msgid "Custom fields that can be used to include product manuals, additional information, etc."
+msgstr ""
+
+#. Found in description list item.
+msgid "SEO friendly single catalog product pages"
+msgstr ""
+
+#. Found in description list item.
+msgid "SEO By Yoast Integration for your catalogs"
+msgstr ""
+
+#. Found in description list item.
+msgid "For a more in depth list, please visit our FAQ page:"
+msgstr ""
+
+#. Found in description list item.
+msgid "Brazilian Portugese (Thanks to <a href='http://wordpress.org/support/profile/tito_cadallora'>Tito_Cadallora</a>);"
+msgstr ""
+
+#. Found in description list item.
+msgid "Bulgarian (Thanks to Preslav P.)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Canadian French (Thanks to Pascale DRP)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Dutch (Thanks to Martin S.)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Greek (Thanks to <a href='http://bigdrop.gr/'>Christoforos A.</a>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Italian"
+msgstr ""
+
+#. Found in description list item.
+msgid "Lithuanian (Thanks to <a href='http://wordpress.org/support/profile/adart'>AdArt</a>);"
+msgstr ""
+
+#. Found in description list item.
+msgid "Russian (Thanks to Alexander M.)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Spanish (Thanks to Irene L.)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Turkish (Thanks to Ayhan)"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href='http://www.etoilewebdesign.com/ultimate-product-catalogue-demo/'>Product Catalog Demo</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Our responsive catalog plugin is designed to display your products in an a sleek and easy to customize catalog(ue) format. Choose between three default responsive layouts for your catalog, or use the Custom CSS features or any of the hundreds of catalog styling options. Make your product catalog easy to browse, sort and update with product categories, sub-categories, tags and custom fields. Simple to add a product catalog to any page using the [product-catalogue] or [product-catalog] shortcode!"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Perfect to create a product catalog for your store, art gallery, restaurant and more!"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The premium version includes a huge number of features including: the ability to add over 100 products, additional product images, SEO friendly URLs, product tags and custom fields for sorting, custom product pages, a minimalist layout option and more!"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://www.etoilewebdesign.com/ultimate-product-catalogue-faq\">http://www.etoilewebdesign.com/ultimate-product-catalogue-faq</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Thanks to James K for a number of excellent features"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"Check out our Frequently Asked Questions here:\n"
+"<a href=\"https://wordpress.org/plugins/ultimate-product-catalogue/faq/\">https://wordpress.org/plugins/ultimate-product-catalogue/faq/</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"Head over to the \"Support\" forum to report issues or make suggestions:\n"
+"<a href=\"https://wordpress.org/support/plugin/ultimate-product-catalogue\">https://wordpress.org/support/plugin/ultimate-product-catalogue</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Check out more videos on the FAQ page."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "[youtube https://www.youtube.com/watch?v=vLIdbiD5rr4]"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the <code>ultimate-product-catalogue</code> folder to the <code>/wp-content/plugins/</code> directory"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Place \"[product-catalogue id='X']\" or [product-catalog id=’X’] on the page where you want your catalog to display, where X is the ID of the catalog to display"
+msgstr ""
+
+#. Found in installation list item.
+msgid "<em>The page that displays the product catalog needs to be a full-width type page for the catalog to display correctly</em>"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid ""
+"To get started using the plugin, you can:\n"
+"- Go to the \"Products\" tab in the Ultimate Product Catalogue Plugin (UPCP) admin menu, add products one at a time or by uploading a spreadsheet\n"
+"- Create categories in the \"Categories\" tab, then create sub-categories in the \"Sub-Categories\" tab and assign your sub-categories to the correct category\n"
+"- Create a catalog in the \"Catalogues\" tab, then add products, categories, or sub-categories to that catalog\n"
+"- Add additional images to a product by clicking on it and then adding them from the \"Product Details\" screen\n"
+"- Create tags in the \"Tags\" tab, then assign as many tags as necessary to each product from the \"Product Details\" screen\n"
+"- Re-order your catalogs by dragging and dropping items in the \"Catalog Details\" screen"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a color picker to color fields in the \"Styling\" tab"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor CSS update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an error with placing custom field content into custom tabs in the \"Tabbed\" layout"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an error with tag groups where some tags could end up as radio buttons instead of checkboxes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix for missing thumbnail title styling option"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor CSS fix for image stretching issues"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made walk-through compatible with unsupported versions of PHP"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a walk-through for new installations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a \"Main Image Only\" option to the lightbox"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an issue where the thumbnail layout could overlap on some sites"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a versioning error for any really quick upgraders :)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed the AJAX filtering to properly handle commas in text custom fields"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added in an option to pass filtering results through the default WordPress content filter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added in a missing div tag"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Smoothed out page loading for custom product pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Custom fields that contain no products in a given catalogue are now hidden"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Another (hopfully the last) custom field substring match update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a labeling option for the product inquiry form"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Switched the default action after adding additional images to stay on the product editing screen"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an error for a different set of custom field substring cases"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added an option to show the category descriptions below the category names"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an error where custom fields would make if they contained a substring of the selected field"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a custom products tab CSS class naming error for the catalog"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an error with custom file fields not displaying a download link"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added in a new label for the \"Read More\" text on the details"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed image sizing issues"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated some of the sidebar styling"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the ability to add new, custom tabs to the \"Tabbed\" product page layout (Use the dropdown on the \"Product Pages\" tab)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed the \"Delete\" button for tag groups"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a couple other small problems"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a problem where long category, sub-category and tag lists couldn't be ordered"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a video error for product videos"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an image width issue for the details layout"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "YouTube videos should now work on the tabbed product page when lightbox isn't enabled"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small compatibility update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Many small CSS fixes and improvements"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Replaced a PHP function that was not available in 100% of installs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed the labeling for the tabbed product page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed the display ordering for categories, sub-categories and tags"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Included an updated Dutch translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed some of the widget styles"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small responsiveness fix"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added in backwards compatibility with obsolete versions of PHP"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor jQuery update to fix a possible labeling error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor labeling update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a character encoding issue with non-latin characters in AJAX search"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an labeling issue with saving"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added in additional labeling options for the 'Sort By' section"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Maintain filtering search text fix"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor language compatibility update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor CSS fix for the styling options"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an error so that all \"Extra Elements\" on the product page can now be un-selected"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small social media fix, so that you can select none of the options"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a bunch more labeling options"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed product inquiry forms"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a beta version of product reviews, using our new \"Ultiamte Reviews\" plugin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added in social media button options"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an error with custom fields where they displayed when blank even if the option to hide blank fields was selected"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an error with custom fields that made it impossible not to display them in the tabbed layout"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a new catalog search widget, so that a search bar can be added anywhere to your site"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a 'Details' layout sorting error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a tonne of new stlying options to make it easier to customize the plugin with using CSS (CAREFUL upgrading production sites)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a few small bugs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "More labelling options coming soon"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a potential missing categories/sub-categories/tags error for sidebar filtering"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a missing files error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed the layout of the \"Product Pages\" tab to help reduce custom page scrambling"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor CSS update to make the plugin more responsive"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a custom field adding and editing bug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added an option to display custom fields in the tabbed layout"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a few small CSS issues"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Potentially fixed a missing div problem for the default product page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a linking error for additional images"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a jQuery conflict error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Major changes in this update, so use caution when upgrading a production site!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a new premium product page layout option, tabbed, which is completely responsive"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a lightbox option for the images on the product page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a number of sidebar styling options"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a number of small CSS issues and functionality bugs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a display issue with the mobile version of the custom product page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a potential notice notification when working with SEO By Yoast"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added extra links to support materials to the dashboard tab"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the option to display custom fields in the \"List\" view"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a mobile CSS styling issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a display issue with reordering products within categories"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added an option to include a product inquiry form (requires Contact Form 7 plugin)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a number of styling options for the pagination buttons"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a couple of small bugs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Condensed the \"Options\" tab so that it's easier to navigate"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an error where xls spreadsheets weren't allowed to be uploaded"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a grammatical error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug that could erase all options and product page layouts on some installations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor CSS update for to correct small problems in the recent update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor javascript fix to correct for incorrect catalog height on some pages after recent update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Major upgrade to plugin CSS to increase responsivenss (WARNING: may cause any Custom CSS added to not work correctly)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a deprecated YouTube API error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Blank options no longer show in the \"Additional Options\" area "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Additional filtering options are now sorted alphabetically"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed category label not displaying when products are filtered"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a javascript error most users were getting"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added ability to sort order of products in category by dragging and dropping from the category details page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added ability to sort order of categories, sub-categories, tags and custom fields in the sidebar (careful when upgrading, removes alphabetical ordering)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Hide/Show custom field sorting options"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Option to default show or hide custom fields"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Option to not display custom fields on the main catalog page if they are empty"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the \"Custom CSS\" box to the 'catalogs' tab"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved initial page load time slightly"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an error with xlsx file uploads"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a potential spreadsheet upload error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a CSS conflict that occurs in the sidebar labels with some themes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made titles clickable in \"Details\" layout"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a potential extra div error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Included a Greek translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a small product pages bug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a custom fields display error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a tag groups tag display error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an error with file downloads on custom product pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a potential error with product descriptions containing HTML tags"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a related products linking error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed extra text at the end of exports"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a warning on the \"options\" page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a number of PHP warnings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a minor potential security issue for malicious authenticated users"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Security fix for potential SQL-injection, depending on Options settings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Security fix for spreadsheet uploads"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a selector conflict with WP Super Cache"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a number of PHP notices"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added SEO By Yoast Integration"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added ability to add YouTube videos for products"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added ability to group tags"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added option to display additional product information on the right side of the product page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added ability to sort additional images"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added ability to export to CSV"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Switched the default action when editing an item so that admins remain on the edit page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug with the \"file\" custom field type"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an include error for the admin area"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an error with the recent and random product widgets"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an error with Next/Previous products"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a mobile pagination error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a text filtering problem with pagination"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an error with the access role option"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a mobile display issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an error with setting user access role"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a new premium option to set the user role that can access the plugin menus"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a related products link error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made searcing more than one custom field at a time possible"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Returned the missing category labels on category pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a mobile page display error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed some debugging code accidentally left in from the last update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an error on for checkbox custom field types"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a Tags display problem with category items in catalogs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an error with filtering and labels"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a List-view height adjustment problem"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a repeating div that would be added in AJAX filtering"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a filtering error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the ability to search custom fields"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a new display style for the catalog"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added arguments to the new \"insert-products\" shortcode, so that products from a category or sub-category can be displayed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a number of small display bugs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed the behaviour of the new insert-products shortcode, when a catalogue_url is included"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added 3 widgets, which let users display a number of products"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a new shortcode, insert-products, which lets users insert a small number of products"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added next/previous products for individual products"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added related products feature for individual products"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a \"Back to catalogue\" potential link error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an image display problem with https sites"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed error where links would not open in new windows even with the option set"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a search box for products"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a translation filtering error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a redirect error for sub-domains using default WordPress permalink structure"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixes an important jquery error on non-plugin pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a linking error for users using the default WordPress link structure"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a label for \"Back to catalogue\""
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added an option to not maintain filtering between page loads, to address some redirection issues"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an export to Excel error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a filtering error on custom product pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Included the missing \"Export to Excel\" files"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added an option to turn on custom field slug conversions (which are not set to off by default)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Filtering settings are preserved when using the \"Back to catalogue\" link"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added an option to display a message when no products are found "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a label for the placeholder text in the text search field"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a checkboxes error with custom fields"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Additional fix for products not displaying on homepage"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug that didn't allow catalogues to be displayed on home pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a labelling search bug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added custom fields to Fancyboxes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Allows relabelling of some front-end text, the first in a series of major new features being rolled out over the next few weeks"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixes an image switching error with mobile product pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Support for FancyBox for WP is being dropped. We believe the plugins will still work together to create a FancyBox for each product, but we're no longer actively supporting that feature."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a mobile custom product page bug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made the selector for custom product page list elements more selective"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a div around custom fields in the thumbnail and details layouts, so that they can displayed or hidden"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Included an improved version of the Brazillian Portugese translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed two potential admin display issues"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Shortcodes can be used in \"text\" custom elements"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixes custom product page element styles"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removes the grey background from custom product page elements"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a potential filtering error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New premium feature: ability to export all products to Excel!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the abilit to put [upcp-price] in a product's description, to include the product's price"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug on the sub-category details page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a commenting error with AJAX searches"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for additional shortcodes inside of descriptions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed the translation bug where no products would display if \"Name\" had been translated"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a spreadsheet upload warning when no custom fields existed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Prices with text and currency signs will now be sorted correctly"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed sorting so that products stay sorted after selecting a category, sub-category or tag"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added tooltip help for the \"Options\" tab"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made it easier to identify category, sub-category and tag IDs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an error where products deleted from catalogues were left in as blank entries"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Custom product pages minor update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a fields label error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added hierarchical sub-categories as a sidebar option "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a product pages CSS error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a javascript error with image zooming in FancyBox"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated to the newest version of Gridster"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a sorting PHP warning"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Categories, Sub-Categories and Tags are now listed alphabetically"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added an option to add pagination links to the bottom of the page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a small jQuery error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an error with \"Checkbox\" type custom fields"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a \"Custom Product Pages\" error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an error where the \"Product Sort\" option was not displaying on the \"Options\" page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "\"catalogue ID\" can now be included in spreadsheet product uploads to add a product directly to a certain catalogue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Eliminated \"Mobile Stylesheet\" as an option, since there is a custom mobile layout option"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a product page bug that didn't allow images at the start of a product description"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Eliminated the max-width and max-height restrictions on main images on custom product pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Renamed French and Spanish translation files so that they should work correctly"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug where mobile layout images couldn't be swapped"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a product page error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed the \"Back to catalogue\" link"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a second custom product display, \"Mobile\", that can be used for small-screen devices"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added options to customize the \"Sort By\" box so that it can be eliminated or reduced"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Product link can now be included in a spreadsheet upload"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "An XML sitemap of the products in a catalogue is automatically generated each time a product is created or edited"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tags should now display correctly on custom product pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Categories, Sub-Categories and Tags can now be added as URL parameters (categories, subcategories, tags are the parameters)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "In the sidebar, Category, Sub-Category and Tag checkboxes should now be ordered by date created"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Current layout is now saved when visitors switch pages using pagination"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a height error for pagination"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an error when custom fields and tags were uploaded in the same sheet"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed two custom product page image bugs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added an option to deal with Custom product pages on mobile devices"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed category and sub-category count when pagination is being used"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed sorting by name error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Extended \"AND\" logic for Tags to AJAX filtering"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a small error with \"Delete All Products\""
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed the filtering errors with \"Molbile Stylesheet\""
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a responsive CSS error that was stopping clicks from being able to be clicked"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an error where multiple custom fields being uploaded from a spreadsheet would sometimes fail"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a Russian translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a custom fields error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed the text on the product pages restore confirmation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added pagination, allowing large catalogues to be split onto multiple pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a small display error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "catalogue product count should now be accurate"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Product page grid widths, heights and margins are now adjustable"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "\"Restore Default\" button added to the individual product pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made saving of a custom layout an explicit action instead of saving each time an action was performed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "It is now possible to put code into the \"Image\" field instead of the URL of an image (ex: to add a slideshow for a product instead of an image)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a visual editor for \"Description\" instead of a plain text area input"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made it possible to upload \"slugs\" from a spreadsheet"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated CSS for single product pages for small screen devices"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a advisory on the Custom Product Pages feature tab"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a Dutch translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a spreadsheet upload bug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a new product search option"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an error on the \"Product Page\" tab"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Spanish translation files"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a search error related to the new options"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Make searching more than 1 category at a time possible"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added an option to search product description as well as name"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a problem that prevented most users from using the custom product pages feature"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a number of small CSS problems"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a spreadsheet upload error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a permalinks error after AJAX sorting"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a \"Read more\" link error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a JQuery error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a product count error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New premium feature: custom product page design, let's you drag and drop product pages to change the layout in the back-end"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Contact forms and PayPal buttons can be included on product pages with the new layout feature"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the ability to add multiple additional images at once"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Custom fields can now be uploaded with products being uploaded by spreadsheet (Limited testing, please let us know if you find any errors with this)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a new custom field type, file, so that PDF's and other files can be included with products"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a \"Details\" image option, so that the arrow can be replaced with any image of your choosing"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added an italian language translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a small spreadsheet error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a display bug for individual product pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Major custom fields improvement: allow fields to be displayed on main catalogue pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor css upgrades to the main catalogue pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an individual product pages bug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed the pretty permalinks rewrites to be compatible with recent WordPress updates"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a \"Delete All Products\" button"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the ability to require confirmation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Turkish as a language option"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Disabled the \"Enter\" function on the search form"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed spreadsheet upload bugs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed FancyBoxes after AJAX search"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed \"custom fields\" error with no validation entered"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added French as a supported language"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved the AJAX search function"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added css support for a large number of new themes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added case-insensitive search for AJAX filtering"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small update for uploading products from spreadsheets"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixes for custom fields"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Shortcodes can now be used in product descriptions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Two small bug fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New Premium feature: Custom Fields!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Custom fields let you add fields to your products, that can be included in the description of your products via shortcode, so that you can have a common product template"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New feature: Non-displayed products"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Non-displayed products let you temporarily remove a product from all catalogues (ex: if it's out of stock)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tags can now be imported via spreadsheet"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "catalogue height now adjusts depending on the size of the current layout"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tutorial videos are available in the FAQ section"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small bug fix"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Some language files added"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Three small fixes for the front-end and product page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small fix for \"Tags\" functionality with new AJAX filtering"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small optimizations to return catalogue quicker after users filter the catalogue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Beta AJAX catalogue filtering as an option"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Number of characters in a product's \"details\" view description added as an option"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a small catalogue detail's page bug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Implemented view counting for products, based on clicks on title or image links"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added mobile stylesheet (v1) and product sorting for premium users"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Increased compatibility for uploaded product spreadsheets (more forgiving of small errors in column names, better error reporting)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Attempted to make tables compatible with MySQL strict mode"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an error where SEO friendly URL's stopped working shortly after being setup"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added in the WordPress Uploader for product images"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "SEO friendly single product URLs are now an option"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Plugin tables now use UTF8 encoding"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added an 'Options' page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added 'Read More' as an option on the 'Options' page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added 'Color Scheme' as an option on the 'Options' page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added 'Tags Logic' as an option on the 'Options' page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added 'Product Links' as an option on the 'Options' page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Implemented a premium version for new users"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added pagination for the admin pages to allow easier access to all products"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a 'product link' field for sites participating in affiliate programs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made shortcode easier to find"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added single product pages if FancyBox for WordPress isn't installed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed the issue with product images being deleted on upgrade"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed category labels behaviour when products are being filtered"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added localization (hopefully!)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added an \"initial_layout\" shortcode"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added an \"exclude_layouts\" shortcode"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added individual product URLs, when blogs have FancyBox for WordPress installed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made a number of small changes"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid ""
+"= 3.0.13=\n"
+"- Fixed a small display bug"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid ""
+"= 2.5.6=\n"
+"- Correct version of Shortcodes.php file included with this version (sorry!)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid ""
+"= 2.4.29=\n"
+"- Added a new .pot file with many of the missing strings\n"
+"- Fixed an error that was preventing images from being uploaded"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Initial Version."
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I display my catalog? If I have more than one catalog, what do I do?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can my products be in more than one category or sub-category?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can I load my catalog with a layout other than the default \"Thumbnail\" layout?"
+msgstr ""
+
+#. Found in faq header.
+msgid "I only want to display one catalog layout and to remove the layout bar at the top from my catalog?"
+msgstr ""
+
+#. Found in faq header.
+msgid "My product description gets cut off even though I have changed the max characters for my catalog, how can I fix this?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I remove the sidebar from my catalog?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Why aren’t my products uploading from the spreadsheet?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I get custom changes I’ve made to the product page layout or the custom fields I’ve added in the product details to display?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I sort the order of the products within the catalog?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I translate the catalog into my language?"
+msgstr ""
+
+#. Found in faq header.
+msgid "What is enabled in the 'Premium' version?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Videos"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Super responsive tabbed layout with customizable tabs"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Drag-and-drop catalog product pages layout"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Lightbox, product inquiry form and product reviews"
+msgstr ""
+
+#. Found in faq list item.
+msgid "SEO friendly catalog single product pages"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Unlimited catalog products"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Additional images per product"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Catalog pretty permalinks"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Product tags"
+msgstr ""
+
+#. Found in faq list item.
+msgid "More catalog layout options"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Related and Next/Previous catalog product display"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Styling, labeling and dozens of other options!"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Put this shortcode on whatever page you’re trying to put the catalog on: ‘[product-catalogue id=’X’]’ or [product-catalog id=’X’]and replace the ‘X’ with the ID of your catalog. This can be found by clicking on your catalog, the catalog ID  is beside the catalog name on the catalog’s details page. You can also copy the shortcode directly from the “Catalogues” page."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "To display one of your catalogs use the corresponding attribute ‘id='X'’ in the product-catalogue shortcode to specify that catalog, where 'X' is replaced with the catalog ID."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "No, products can only be in a single category and sub-category. Products can have as many tags desired, since tags are used to represent product attributes."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Add the attribute [starting_layout='LAYOUT’] for your catalog, where LAYOUT is replaced with the layout you would like to be the starting catalog layout (List or Detail are the two options currently)."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"The attribute ‘excluded_layouts’ lets you stop one or more layouts from being displayed for your catalog. It accepts a comma separated list of layouts you wish to exclude. For example, [excluded_layouts='Thumbnail, List’] would make your catalog display only the \"Detail\" view.\n"
+"To remove the layout bar you can try adding the following into your \"Custom CSS\" box for your catalog(where the colour matches the colour of the catalog you are using):\n"
+"‘.Blue-prod-cat-header-div {display: none;}’"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "There is a text area labelled \"Custom CSS\" when you click on the catalog that you're editing. Try adding this to it:  ‘.prod-cat-addt-details-desc-div {max-height:none;}’"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You can use the attribute [sidebar=‘No'] in the product-catalogue shortcode to remove the sidebar from a catalog."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"There are a number of reasons why products might not be uploading correctly.\n"
+"First, make sure that you’re uploading either a .xls or .xlsx file type (not .csv).\n"
+"Second, make sure that you’ve written all of your field names correctly (Name, Slug, Description, Price, Image, Category, Sub-Category, Tags), especially custom fields, which need to be exactly the same as the field name.\n"
+"Third, make sure that you don’t have any columns that have been edited unintentionally (which gives an “incorrect field name” error)."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "On  the “Options” page the “Custom Product Page” needs to be set to “Yes” for custom layout to display."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You can arrange the order of the products by dragging and dropping the products on the “Catalogue Details” page ."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "A great place to start learning about how to translate a plugin is at the link below: <a href=\"http://premium.wpmudev.org/blog/how-to-translate-a-wordpress-plugin\">http://premium.wpmudev.org/blog/how-to-translate-a-wordpress-plugin</a>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Once translated, you'll need to put the translated catalog mo- and po- files directly in the lang folder and make sure they are named properly for your localization.\n"
+"If you do translate the catalog, other users would love to have access to the files in your language. You can send them to us at Contact@EtoileWebDesign.com, and we’ll be sure they’re included in a future release."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "The premium version includes a lot of great features including: the ability to add over 100 products, additional product images, SEO friendly catalog URLs, product tags and custom fields for catalog sorting, custom catalog product pages, a minimalist catalog layout option and more!"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"For a more in depth list, please visit our FAQ page:\n"
+"<a href=\"http://www.etoilewebdesign.com/ultimate-product-catalogue-faq\">http://www.etoilewebdesign.com/ultimate-product-catalogue-faq</a>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"For more questions and support you can post in the support forum:\n"
+"<a href=\"https://wordpress.org/support/plugin/ultimate-product-catalogue\">https://wordpress.org/support/plugin/ultimate-product-catalogue</a>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Tutorial Video 1 - Installation and Set Up\n"
+"[youtube https://www.youtube.com/watch?v=-AwTj0pfooo]"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Tutorial Video 2 - Categories and Sub-Categories\n"
+"[youtube https://www.youtube.com/watch?v=9ATWI_UoYi4]"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Tutorial Video 3 - Tags and Custom Fields\n"
+"[youtube https://www.youtube.com/watch?v=JqqqFfogiQ8]"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Tutorial Video 4 - The Options Page\n"
+"[youtube https://www.youtube.com/watch?v=UxWENKqa9Rk]"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Tutorial Video 5 - Widgets\n"
+"[youtube https://www.youtube.com/watch?v=sLHBA4fXuYg]"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Tutorial Video 6 - Shortcodes\n"
+"[youtube https://www.youtube.com/watch?v=oJqVQQ-Y1TY]"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Tutorial Video 7 - Extra URL Parameters for Filtering\n"
+"[youtube https://www.youtube.com/watch?v=YYpRuukkqLw]"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Tutorial Video 8 - Custom CSS\n"
+"[youtube https://www.youtube.com/watch?v=tq386rMtpm8]"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Premium Features (a little out of date, update coming soon!)\n"
+"[youtube http://www.youtube.com/watch?v=l9mWNqOIB_w]"
+msgstr ""

@@ -226,8 +226,8 @@ function UPCP_Add_Modified_Styles() {
 			{$StylesString .= "color:" . get_option("UPCP_Thumbnail_View_Price_Color") . ";";} 
 		$StylesString .="}\n";
 	$StylesString .= ".upcp-thumb-details-link {";
-		// if (get_option("UPCP_Thumbnail_View_Details_Arrow") != THUMBNAIL_VIEW_DETAILS_ARROW) {$StylesString .= get_option("UPCP_Thumbnail_View_Details_Arrow") . ";";}  
-		// if (get_option("UPCP_Thumbnail_View_Custom_Details_Arrow") != THUMBNAIL_VIEW_CUSTOM_DETAILS_ARROW) {$StylesString .= get_option("UPCP_Thumbnail_View_Custom_Details_Arrow") . ";";}  
+		 if (get_option("UPCP_Thumbnail_View_Details_Arrow") != THUMBNAIL_VIEW_DETAILS_ARROW) {$StylesString .= get_option("UPCP_Thumbnail_View_Details_Arrow") . ";";}  
+		 if (get_option("UPCP_Thumbnail_View_Custom_Details_Arrow") != THUMBNAIL_VIEW_CUSTOM_DETAILS_ARROW) {$StylesString .= get_option("UPCP_Thumbnail_View_Custom_Details_Arrow") . ";";}  
 		$StylesString .="}\n";
 	
 	/* List View Options */

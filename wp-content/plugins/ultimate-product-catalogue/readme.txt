@@ -205,6 +205,12 @@ Premium Features (a little out of date, update coming soon!)
 10. View of the premium catalog options under the "Options" tab
 
 == Changelog ==
+= 3.5.48 =
+- Added a color picker to color fields in the "Styling" tab
+
+= 3.5.47 =
+- Minor CSS update
+
 = 3.5.46 =
 - Fixed an error with placing custom field content into custom tabs in the "Tabbed" layout
 

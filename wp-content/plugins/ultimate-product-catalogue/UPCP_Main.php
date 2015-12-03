@@ -7,7 +7,7 @@ Author: Etoile Web Design
 Author URI: http://www.EtoileWebDesign.com/
 Terms and Conditions: http://www.etoilewebdesign.com/plugin-terms-and-conditions/
 Text Domain: UPCP
-Version: 3.5.46
+Version: 3.5.48
 */
 
 global $UPCP_db_version;
@@ -106,6 +106,7 @@ function Add_UPCP_Scripts() {
 		$url_six = plugins_url("ultimate-product-catalogue/js/jquery.confirm.min.js");
 		$url_seven = plugins_url("ultimate-product-catalogue/js/product-page-builder.js");
 		$url_eight = plugins_url("ultimate-product-catalogue/js/jquery.gridster.js");
+		$url_nine = plugins_url("ultimate-product-catalogue/js/spectrum.js");
 
 		wp_enqueue_script('PageSwitch', $url_one, array('jquery'));
 		wp_enqueue_script('sorttable', $url_two, array('jquery'));
@@ -115,6 +116,7 @@ function Add_UPCP_Scripts() {
 		wp_enqueue_script('Confirm', $url_six, array('jquery'));
 		wp_enqueue_script('Page-Builder', $url_seven, array('jquery'), '1.0', true);
 		wp_enqueue_script('Gridster', $url_eight, array('jquery'), '1.0', true);
+		wp_enqueue_script('Spectrum', $url_nine, array('jquery'), '1.0', true);
 		wp_enqueue_script('jquery-ui-sortable');
 		wp_enqueue_script('update-catalogue-order', plugin_dir_url(__FILE__) . '/js/update-catalogue-order.js');
 		wp_enqueue_media();
@@ -171,6 +173,7 @@ function UPCP_Admin_Options() {
 	//echo "<link rel='stylesheet' type='text/css' href='$url' />\n";
 	wp_enqueue_style( 'upcp-admin', plugins_url("ultimate-product-catalogue/css/Admin.css"));
 	wp_enqueue_style( 'upcp-gridster', plugins_url("ultimate-product-catalogue/css/jquery.gridster.css"));
+	wp_enqueue_style( 'upcp-spectrum', plugins_url("ultimate-product-catalogue/css/spectrum.css"));
     //wp_enqueue_style( 'bootstrap', plugins_url("ultimate-product-catalogue/css/bootstrap.min.css"));
 }
 

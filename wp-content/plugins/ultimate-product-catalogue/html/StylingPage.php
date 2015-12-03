@@ -181,7 +181,7 @@
 			</div> -->
 			<div class='upcp-option'>
 				<div class='upcp-option-label'>Image Border Color</div>
-				<div class='upcp-option-input'><input type='text' name='thumbnail_view_image_color' value='<?php echo $Thumbnail_View_Image_Border_Color; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
+				<div class='upcp-option-input'><input type='text' class='ewd-upcp-spectrum' name='thumbnail_view_image_color' value='<?php echo $Thumbnail_View_Image_Border_Color; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
 			</div>
 		</div>
 	</div>
@@ -215,7 +215,7 @@
 			</div> -->
 			<div class='upcp-option'>
 				<div class='upcp-option-label'>Border Color</div>
-				<div class='upcp-option-input'><input type='text' name='thumbnail_view_border_color' value='<?php echo $Thumbnail_View_Border_Color; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
+				<div class='upcp-option-input'><input type='text' class='ewd-upcp-spectrum' name='thumbnail_view_border_color' value='<?php echo $Thumbnail_View_Border_Color; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
 			</div>
 		</div>
 	</div>
@@ -229,7 +229,7 @@
 			</div>
 			<div class='upcp-option'>
 				<div class='upcp-option-label'>Title Color</div>
-				<div class='upcp-option-input'><input type='text' name='thumbnail_view_title_color' value='<?php echo $Thumbnail_View_Title_Color; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
+				<div class='upcp-option-input'><input type='text' class='ewd-upcp-spectrum' name='thumbnail_view_title_color' value='<?php echo $Thumbnail_View_Title_Color; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
 			</div>
 		<!-- 	<div class='upcp-option'>
 				<div class='upcp-option-label'>Title Font</div>
@@ -241,11 +241,11 @@
 			</div>
 			<div class='upcp-option'>
 				<div class='upcp-option-label'>Price Color</div>
-				<div class='upcp-option-input'><input type='text' name='thumbnail_view_price_color' value='<?php echo $Thumbnail_View_Price_Color; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
+				<div class='upcp-option-input'><input type='text' class='ewd-upcp-spectrum' name='thumbnail_view_price_color' value='<?php echo $Thumbnail_View_Price_Color; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
 			</div>	
 			<div class='upcp-option'>
 				<div class='upcp-option-label'>Background Color</div>
-				<div class='upcp-option-input'><input type='text' name='thumbnail_view_background_color' value='<?php echo $Thumbnail_View_Background_Color; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
+				<div class='upcp-option-input'><input type='text' class='ewd-upcp-spectrum' name='thumbnail_view_background_color' value='<?php echo $Thumbnail_View_Background_Color; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
 			</div>
 		
 		</div>
@@ -314,7 +314,7 @@
 			</div> -->
 			<div class='upcp-option'>
 				<div class='upcp-option-label'>Image Border Color</div>
-				<div class='upcp-option-input'><input type='text' name='list_view_image_color' value='<?php echo $List_View_Image_Border_Color; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
+				<div class='upcp-option-input'><input type='text' class='ewd-upcp-spectrum' name='list_view_image_color' value='<?php echo $List_View_Image_Border_Color; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
 			</div>
 		</div>
 	</div>
@@ -340,7 +340,7 @@
 			</div> -->
 			<div class='upcp-option'>
 				<div class='upcp-option-label'>Border Color</div>
-				<div class='upcp-option-input'><input type='text' name='list_view_border_color' value='<?php echo $List_View_Border_Color; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
+				<div class='upcp-option-input'><input type='text' class='ewd-upcp-spectrum' name='list_view_border_color' value='<?php echo $List_View_Border_Color; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
 			</div>
 		</div>
 	</div>
@@ -354,7 +354,7 @@
 			</div>
 			<div class='upcp-option'>
 				<div class='upcp-option-label'>Title Color</div>
-				<div class='upcp-option-input'><input type='text' name='list_view_title_color' value='<?php echo $List_View_Title_Color; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
+				<div class='upcp-option-input'><input type='text'  class='ewd-upcp-spectrum' name='list_view_title_color' value='<?php echo $List_View_Title_Color; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
 			</div>
 <!-- 			<div class='upcp-option'>
 				<div class='upcp-option-label'>Title Font</div>
@@ -366,7 +366,7 @@
 			</div>
 			<div class='upcp-option'>
 				<div class='upcp-option-label'>Price Color</div>
-				<div class='upcp-option-input'><input type='text' name='list_view_price_color' value='<?php echo $List_View_Price_Color; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
+				<div class='upcp-option-input'><input type='text' class='ewd-upcp-spectrum' name='list_view_price_color' value='<?php echo $List_View_Price_Color; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
 			</div>
 		</div>
 		</div>
@@ -438,7 +438,7 @@
 		</div> -->
 		<div class='upcp-option'>
 			<div class='upcp-option-label'>Image Border Color</div>
-			<div class='upcp-option-input'><input type='text' name='detail_view_image_color' value='<?php echo $Detail_View_Image_Border_Color; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
+			<div class='upcp-option-input'><input type='text' class='ewd-upcp-spectrum' name='detail_view_image_color' value='<?php echo $Detail_View_Image_Border_Color; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
 		</div>
 	</div>
 	</div>
@@ -460,11 +460,11 @@
 		</div> -->
 		<div class='upcp-option'>
 			<div class='upcp-option-label'>Border Color</div>
-			<div class='upcp-option-input'><input type='text' name='detail_view_border_color' value='<?php echo $Detail_View_Border_Color; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
+			<div class='upcp-option-input'><input type='text' class='ewd-upcp-spectrum' name='detail_view_border_color' value='<?php echo $Detail_View_Border_Color; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
 		</div>
 		<div class='upcp-option'>
 			<div class='upcp-option-label'>Background Color</div>
-			<div class='upcp-option-input'><input type='text' name='detail_view_background_color' value='<?php echo $Detail_View_Background_Color; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
+			<div class='upcp-option-input'><input type='text' class='ewd-upcp-spectrum' name='detail_view_background_color' value='<?php echo $Detail_View_Background_Color; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
 		</div>
 	</div>
 	</div>
@@ -478,7 +478,7 @@
 		</div>
 		<div class='upcp-option'>
 			<div class='upcp-option-label'>Title Color</div>
-			<div class='upcp-option-input'><input type='text' name='detail_view_title_color' value='<?php echo $Detail_View_Title_Color; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
+			<div class='upcp-option-input'><input type='text' class='ewd-upcp-spectrum' name='detail_view_title_color' value='<?php echo $Detail_View_Title_Color; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
 		</div>
 	<!-- 	<div class='upcp-option'>
 			<div class='upcp-option-label'>Title Font</div>
@@ -489,8 +489,8 @@
 			<div class='upcp-option-input'><input type='text' name='detail_view_price_font_size' value='<?php echo $Detail_View_Price_Font_Size; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
 		</div>
 		<div class='upcp-option'>
-			<div class='upcp-option-label'>Price Font</div>
-			<div class='upcp-option-input'><input type='text' name='detail_view_price_color' value='<?php echo $Detail_View_Price_Color; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
+			<div class='upcp-option-label'>Price Font Color</div>
+			<div class='upcp-option-input'><input type='text' class='ewd-upcp-spectrum' name='detail_view_price_color' value='<?php echo $Detail_View_Price_Color; ?>' <?php if ($Full_Version != "Yes") {echo "disabled";} ?> /></div>
 		</div>
 	</div>
 	</div>

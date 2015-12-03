@@ -52,9 +52,9 @@ function Insert_Product_Catalog($atts) {
 	// Get the attributes passed by the shortcode, and store them in new variables for processing
 	extract( shortcode_atts( array(
 				"id" => "1",
-				"excluded_layouts" => "None",
+				"excluded_layouts" => "list",
 				"starting_layout" => "",
-				"products_per_page" => "",
+				"products_per_page" => 5,
 				"current_page" => 1,
 				"sidebar" => "Yes",
 				"only_inner" => "No",
@@ -609,7 +609,7 @@ function AddProduct($format, $Item_ID, $Product, $Tags, $AjaxReload = "No", $Aja
 	$CF_Conversion = get_option("UPCP_CF_Conversion");
 
 	$Details_Label = get_option("UPCP_Details_Label");
-	if ($Details_Label != "") {$Details_Text = $Details_Label;}
+	if ($Details_Label != "Details") {$Details_Text = $Details_Label;}
 	else {$Details_Text = __("Details", 'UPCP');}
 	if (get_option("UPCP_Read_More_Label") != "") {$Read_More_Label = get_option("UPCP_Read_More_Label");}
 	else {$Read_More_Label = __("Read More", 'UPCP');}
@@ -1797,7 +1797,7 @@ function CheckTags($tags, $ProdTag, $Tag_Logic) {
 }
 
 function CheckPagination($Product_Count, $products_per_page, $current_page, $Filtered = "No") {
-	if ($products_per_page >= 1000000) {return "OK";}
+	if ($products_per_page >= 25) {return "OK";}
 	if ($Product_Count >= ($products_per_page * ($current_page - 1))) {
 		if ($Product_Count < ($products_per_page * $current_page)) {
 			return "OK";
