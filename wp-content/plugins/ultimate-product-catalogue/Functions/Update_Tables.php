@@ -199,7 +199,7 @@ function UpdateTables() {
 	if (get_option("UPCP_Product_Inquiry_Form") == "") {update_option("UPCP_Product_Inquiry_Form", "No");}
 	if (get_option("UPCP_Product_Reviews") == "") {update_option("UPCP_Product_Reviews", "No");}
 	if (get_option("UPCP_Lightbox") == "") {update_option("UPCP_Lightbox", "No");}
-	if (get_option("UPCP_Products_Per_Page") == "") {update_option("UPCP_Products_Per_Page", 25);}
+	if (get_option("UPCP_Products_Per_Page") == "") {update_option("UPCP_Products_Per_Page", 1000000);}
 	if (get_option("UPCP_Pagination_Location") == "") {update_option("UPCP_Pagination_Location", "Top");}
 	if (get_option("UPCP_CF_Conversion") == "") {update_option("UPCP_CF_Conversion", "No");}
 	if (get_option("EWD_OTP_Access_Role") == "") {update_option("UPCP_Access_Role", "administrator");}

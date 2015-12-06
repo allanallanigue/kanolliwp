@@ -205,6 +205,9 @@ Premium Features (a little out of date, update coming soon!)
 10. View of the premium catalog options under the "Options" tab
 
 == Changelog ==
+= 3.5.49 =
+- Fixed an error where "Hide Blank Custom Fields" wasn't applied to custom fields on the tabbed product page
+
 = 3.5.48 =
 - Added a color picker to color fields in the "Styling" tab
 

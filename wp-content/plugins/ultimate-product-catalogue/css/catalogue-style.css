@@ -423,16 +423,15 @@ select:active {
 	color: #2e8f9a;
 }
 .upcp-thumb-details-link {
-	background: url("../images/details_icon.png") no-repeat;
+	background: url("../images/details_icon.png");
 	background-repeat: no-repeat;
 	background-position: center right;
 	color: #80bee1 !important;
-	height: 18px;
+	height: 40px;
 	float: right;
-	line-height: 10px;
-	width: 105px;
+	line-height: 40px;
+	width: 80px;
 	margin-right: 6px;
-        margin-top: 20px;
 }
 .upcp-thumb-title a{
 	color:#1b8be0 !important;
